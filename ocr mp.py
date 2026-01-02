@@ -3,11 +3,13 @@ import re
 import pandas as pd
 import tkinter as tk
 from tkinter import ttk
+import numpy as np
 
 LARGE_FONT = ("Verdana", 12)
 NORM_FONT = ("Verdana", 10)
 SMALL_FONT = ("Verdana", 8)
-
+a=12
+b=12
 
 def popupmsg(msg):
     popup = tk.Tk()
