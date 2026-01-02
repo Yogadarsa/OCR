@@ -7,8 +7,7 @@ from tkinter import ttk
 LARGE_FONT = ("Verdana", 12)
 NORM_FONT = ("Verdana", 10)
 SMALL_FONT = ("Verdana", 8)
-
-
+y="yogadarsa"
 def popupmsg(msg):
     popup = tk.Tk()
     popup.wm_title("!")
